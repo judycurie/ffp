@@ -1,7 +1,7 @@
 
 ## REGULATIONS
 
-
+[Statut PL](../assets/FFP-Statut2023ntr.pdf)
 
 [Gender Equality Plan for Fab Foundation Poland (GEP) 2023-2027](../assets/GEP-v1.0.pdf)
 
