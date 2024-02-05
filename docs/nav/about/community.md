@@ -48,7 +48,7 @@ Szymon is an accomplished Architectural Assistant with a proven track record in 
 
 With an Engineer's degree in Architecture from Wroclaw University of Science and Technology, he brings a strong academic foundation into practice. His current focus is on expanding knowledge in computational design, programming, and digital fabrication. He is dedicated to incorporating these advanced skills into architectural and product design work, enhancing innovation and efficiency in the fields.
 
-Szymon is a co-founder of [MatchIt](https://matchitholds.wixsite.com/matchit/holds) - an innvoative enterprise producing high-quality timber holds for climbing purposes. All MattchIt producs are parametrically deisgned and fabricated with CNC machines. Szymon is higly skilled in C# programmnig in Grasshooper and automation of digital production. He can teach you how to create your own product, optimize it for production, and make customization effortless. His passion for climbing is contegious, therfore taking workshop with him may convert you into computational design and/or climbing geek :)
+Szymon is a co-founder of [MatchIt!](https://www.instagram.com/matchitholds/) - an innovative enterprise producing high-quality timber holds for climbing purposes. All [MatchIt!](https://www.instagram.com/matchitholds/) products are parametrically designed and fabricated with CNC machines. Szymon is highly skilled in C# programming in Grasshopper and automation of digital production. He can teach you how to create your own product, optimize it for production, and make customization effortless. His passion for climbing is contagious, therefore taking workshop with him may convert you into computational design and/or climbing geek :)
 
 
-More at [www.linkedin.com](https://www.linkedin.com/in/szymon-%C5%82%C3%B3j-93250b179/?originalSubdomain=pl)
+More at: [www.linkedin.com](https://www.linkedin.com/in/szymon-%C5%82%C3%B3j-93250b179/?originalSubdomain=pl)
