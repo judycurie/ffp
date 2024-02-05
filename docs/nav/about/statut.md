@@ -1,12 +1,10 @@
 
-## Fab Foundation Poland
 
-STATUTE
-Fab Foundation Poland
+#STATUTE Fab Foundation Poland
 Consolidated text as of January 23, 2023.
 
-##Chapter I
-###General provisions
+#Chapter I
+##General provisions
 
 **§ 1**
 
@@ -40,8 +38,8 @@ The Foundation may use the following abbreviation of its name: FFP, a distinctiv
 
 The minister responsible for the Foundation's affairs is the minister of education and science.
 
-##Chapter II
-###Objectives and Activities of the Foundation
+#Chapter II
+##Objectives and Activities of the Foundation
 
 
 ###Purpose of the Foundation
@@ -88,8 +86,8 @@ In order to achieve its goals, the Foundation may support the activities of othe
 2. The amount of employment, rules of remuneration and funds allocated for remuneration are determined by the Management Board of the Foundation.
 3. Components of fixed assets used in public benefit and business activities are subject to depreciation and redemption in accordance with the applicable rules.
 4. Decisions regarding financial and economic undertakings are made by the Management Board of the Foundation.
-##Chapter III
-###Foundation's assets and income
+#Chapter III
+##Foundation's assets and income
 
 
 **§ 12**
@@ -107,8 +105,8 @@ g. economic activity.
 
 All income obtained by the Foundation from its business activities, subsidies, public collections, donations or sponsorships are allocated to the implementation of its goals, its development and structure.
 
-##Chapter IV
-###Structure/ Bodies of the Foundation
+#Chapter IV
+##Structure/ Bodies of the Foundation
 
 **§ 14**
 
@@ -178,8 +176,8 @@ c. represent the Foundation in the media and use the Foundation's affiliation,
 d. perform honorary and representative functions, e.g. presenting awards, opening a gala, e. receive remuneration and reimbursement of costs incurred in connection with activities for the Foundation,
 f. conduct research in accordance with the goals of the foundation (this also applies to managing research grants).
 
-##Chapter V
-##Final Provisions
+#Chapter V
+#Final Provisions
 
 **§ 21**
 

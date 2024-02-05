@@ -1,6 +1,9 @@
-# Fab Poland Community
+
 ![](../assets/about/FabPoland-icon.png)
-## FFP Members
+_______________
+_______________
+
+#**FFP Members**
 
 By becoming an FFP Member, you join a dynamic collaboration platform at the forefront of computational design and digital fabrication in Poland. As an FFP Member, you'll enjoy a range of exclusive benefits:
 
@@ -20,13 +23,14 @@ The membership is rewed annually and offers:
 
 
 Stay connected, stay informed, receive new opportunities, find collaborators, enjoy FFP resources (books, codes, settings, designs), share problems, share ideas, share solutions, grow with us!
-#[Become a FFP member](../about/membership.md)
+##[Become a FFP member](../about/membership.md)
 _______________
+________
 
-##Tutors
+#**Tutors**
 ![](../assets/about/judycurie200.jpg)
 
-### **Judy Curie**
+## **Judy Curie**
 
 Judy Curie (Judyta Maria Cichocka) is a research-oriented designer and entrepreneur. Her primary focus centers on the application of Computational Intelligence methods in both structural and architectural design. Holding a PhD in architectural engineering from WRUT and an MEng in Structural Design and Mechanics from MIT, she brings a unique blend of academic rigor and practical expertise to her work. Judy was nominated by MIT for the SOM STRUCTURAL ENGINEERING RESEARCH GRANT  and also received the MIT Art Grant in 2019. She led courses at prestigious institutions such as Universität der Künste Berlin, Victoria University of Wellington School of Architecture and Design, BTU Cottbus, and Wroclaw University of Science and Technology. She has served as a workshop leader at renowned international events like AAG, IASS, CAADRIA, ACADIA.  Throughout her career, Judy has imparted knowledge to over 300 students, researchers, and professionals through academic courses, onsite workshops, and online training sessions.
 
@@ -42,7 +46,7 @@ More at: [judycurie.com](https://judycurie.com/)
 _____________________________
 
 ![](../assets/about/szymon.jpg)
-### **Szymon Loj**
+## **Szymon Loj**
 
 Szymon is an accomplished Architectural Assistant with a proven track record in the public architecture sector. His expertise lies in Building Information Modeling (BIM) and proficiency in various 3D modeling software such as Rhinoceros and Grasshopper3d. He specializes in Parametric Design, Parametric Modeling, and Geometry.
 

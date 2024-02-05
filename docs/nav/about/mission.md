@@ -5,7 +5,7 @@
 ![](../assets/about/graphics-master-mission-2.png)
 
 
-##Fab Foundation Poland is:
+#Fab Foundation Poland is:
 
 - **a non-profit organisation** (verified for Google Nonprofits- Charity ID: 8982288193) and,
 -  **a research and knowledge-dissemination organisation** (compling with the *art. 2 pkt. 83 of COMMISSION REGULATION (EU) No 651/2014 of 17 June 2014 declaring certain categories of aid compatible with the internal market in application of Articles 107 and 108 of the Treaty* [link](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0651))

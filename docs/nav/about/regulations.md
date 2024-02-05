@@ -1,5 +1,5 @@
 
-## REGULATIONS
+##**REGULATIONS**
 
 [Statut PL](../assets/FFP-Statut2023ntr.pdf)
 
@@ -7,7 +7,7 @@
 
 
 
-## RESOLUTIONS
+## **RESOLUTIONS**
 
  [Resolution No. 1/2023](../assets/2023_Uchwala1.pdf) about Statut
 

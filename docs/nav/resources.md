@@ -4,7 +4,7 @@
 
 ![](./assets/ffp-background2.jpg)
 
-##fab lab links
+#fab lab links
 
 [portal](https://www.fablabs.io)
 [locations](https://www.fablabs.io/labs/map)

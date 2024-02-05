@@ -9,7 +9,7 @@ The International Scientific Council is a scientific, advisory, and representati
 
 ____________________________
 ![](../assets/research/philippe-block.png)
-### ** Prof. Dr. Philippe Block**
+## ** Prof. Dr. Philippe Block**
 
 Philippe Block is professor at the Institute of Technology in Architecture (ITA) at ETH Zurich, where he leads the Block Research Group (BRG) with Dr. Tom Van Mele and is Head of the Institute. Philippe is also Director of the Swiss National Centre of Competence in Research (NCCR) on Digital Fabrication. He studied architecture and structural engineering at the Vrije Universiteit Brussel and at the Massachusetts Institute of Technology, where he earned his PhD in 2009. Philippe and Tom apply their research into practice providing innovation in (computational) design, engineering, fabrication and construction of sustainable, circular and economical structures, addressing climate change by significantly reducing embodied emissions, utilising fewer single-use resources and minimising construction waste.
 
@@ -23,7 +23,7 @@ ____________________________
 
 
 ![](../assets/research/MarianaPopescu.jpg)
-### ** Dr. Mariana Popescu**
+## ** Dr. Mariana Popescu**
 
 Mariana Popescu is a computational architect and structural designer with a strong interest and experience in innovative ways of approaching the fabrication process and use of materials in construction. She is Assistant Professor of Parametric Structural Design
 and Digital Fabrication at the Delft University of Technology, Faculty of Civil engineering and Geosciences. Her area of expertise is computational and parametric design with a focus on digital fabrication and sustainable design. Her extensive involvement
@@ -36,7 +36,7 @@ on the development of KnitCrete - a flexible formwork system using knitted texti
 ____________________________
 
 ![](../assets/research/GabiBila.png)
-### ** Asst. Prof.  Gabriela Bìlá**
+## ** Asst. Prof.  Gabriela Bìlá**
 
 Gabriela Bìlá is a Brazilian architect, multimedia designer and artist. She uses discussions over the contemporary city as the raw material of her work, combining new media and immersive interfaces to reimagine cities.
 
@@ -49,7 +49,7 @@ Contact: gba@mit.edu
 ____________________________
 
 ![](../assets/research/janusz-rebielak.jpg)
-### **Prof. Janusz Rębielak**
+## **Prof. Janusz Rębielak**
 
 Polish architect and engineer, professor of technical sciences. He has been working at
 the Cracow University of Technology (TU
@@ -102,7 +102,7 @@ More at: [http://januszrebielak.pl](http://januszrebielak.pl) and [wikipedia](ht
 
 ____________________________
 ![](../assets/research/jacek-kosciuk.jpg)
-### ** Prof. Jacek Kościuk**
+## ** Prof. Jacek Kościuk**
 
 Prof. Kościuk is an innovator in the application of 3D scanning for creating digital documentation of historical and archeological objects. 3D laser scanning, modeling and simulations not only enhance the heritage documentation with the 3D digital twins, but it also can aid dating the objects by analysis of brics dimensions or helped to discover the ancient Incaic measuring units. The 3D documentation made with sub-millimeter precision is of key importance for monitoring atmospheric and climatic factors causing erosion processes and implementing proper conservation programs. Over 40 years of experience in building archaeology and architectural monument preservation in Poland and worldwide, including +15 sites from the UNESCO World Heritage List e.g.  Temple of Hatshepsut in Deir el-Bahari (Egypt), El Fuerte de Samaipata (Bolivia), Corikancha temple in Cusco and  Machu Picchu (Peru).
 
