@@ -258,8 +258,8 @@ table tr td:last-child,table tr th:last-child {
 }
 
 .navigation ul li a {
-    margin-left: 1rem;
-    margin-right: 1rem;
+    margin-left:0.4rem;
+    margin-right: 0.4rem;
 }
 
 .content {
@@ -387,8 +387,8 @@ table tr td:last-child,table tr th:last-child {
 
 .centered .about ul li a {
     text-transform: uppercase;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
     font-size: 1.6rem;
 }
 
@@ -568,6 +568,6 @@ table tr td:last-child,table tr th:last-child {
 
 @media (max-width: 991px) {
   .dropdown-menu .dropdown-menu{
-      margin-left:0.7rem; margin-right:0.7rem; margin-bottom: .5rem;
+      margin-left:0.4rem; margin-right:0.5rem; margin-bottom: .5rem;
   }
 }
