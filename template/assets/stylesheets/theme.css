@@ -15,8 +15,8 @@ body {
 }
 
 main {
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 img {
@@ -39,7 +39,7 @@ code {
 }
 
 pre {
-    margin: 1.6rem 0 1rem 0;
+    margin: 0.4rem 0 0.4rem 0;
     padding: 1.6rem;
     overflow-x: auto;
     color:#e5e5e5;
@@ -290,7 +290,7 @@ table tr td:last-child,table tr th:last-child {
 }
 
 .list ul {
-    margin: 3.2rem 0 3.2rem 0;
+    margin: 0.4rem 0 0.4rem 0;
     list-style: none;
     padding: 0;
 }
@@ -376,7 +376,7 @@ table tr td:last-child,table tr th:last-child {
 
 .centered .about ul {
     list-style: none;
-    margin: 3rem 0 1rem 0;
+    margin: 0.4rem 0 0.4rem 0;
     padding: 0;
 }
 
@@ -521,8 +521,8 @@ table tr td:last-child,table tr th:last-child {
 .md-source-repo-icon {
     display: inline-block;
     vertical-align: middle;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 4px;
+    margin-left: 4px;
     font-size: xx-large;
 }
 
@@ -568,6 +568,6 @@ table tr td:last-child,table tr th:last-child {
 
 @media (max-width: 991px) {
   .dropdown-menu .dropdown-menu{
-      margin-left:0.4rem; margin-right:0.5rem; margin-bottom: .5rem;
+      margin-left:0.4rem; margin-right:0.4rem; margin-bottom: .5rem;
   }
 }
