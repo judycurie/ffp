@@ -302,15 +302,15 @@ table tr td:last-child,table tr th:last-child {
 @media only screen and (min-device-width:320px) and (max-device-width:480px) {
 .list ul li {
     font-size: 1.4rem;
-    margin: 1.6rem 0 1.6rem 0;
+    margin: 0.4rem 0 0.4rem 0;
 }
 }
 
 .list ul li span {
     display: inline-block;
     text-align: right;
-    width: 25rem;
-    margin-right: 3rem;
+    width: 40rem;
+    margin-right: 0.4rem;
 }
 
 @media only screen and (min-device-width:320px) and (max-device-width:480px) {
@@ -337,13 +337,13 @@ table tr td:last-child,table tr th:last-child {
 .pagination li span {
     margin: 0;
     text-align: center;
-    width: 3.2rem;
+    width: 5rem;
 }
 
 .pagination li a span {
     margin: 0;
     text-align: center;
-    width: 3.2rem;
+    width: 5rem;
 }
 
 .centered {
@@ -427,7 +427,7 @@ table tr td:last-child,table tr th:last-child {
 }
 
 .footer {
-    height: 6rem;
+    height: 4rem;
     width: 100%;
     text-align: center;
     line-height: 6rem;
