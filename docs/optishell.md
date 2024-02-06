@@ -7,10 +7,10 @@
 
 
 
-##OPTIshell workshop
+#OPTIshell workshop
 ![](nav/assets/events/IMG_9340.jpg)
 
-###OPTIshell - design, analysis, optimization and fabrication of asymptotic gridshells.
+##**OPTIshell - design, analysis, optimization and fabrication of asymptotic gridshells.**
 **Tutors:**  Judy Curie, Szymon Loj
 
 **Dates:** 2-3rd March 2024
