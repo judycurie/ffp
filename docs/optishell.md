@@ -13,7 +13,7 @@
 ##**OPTIshell - design, analysis, optimization and fabrication of asymptotic gridshells.**
 **Tutors:**  Judy Curie, Szymon Loj
 
-**Dates:** 2-3rd March 2024
+**Dates:** 16-17th March 2024
 
 **Location:** Łokietka 12c, Wrocław (Fab Institute)
 
