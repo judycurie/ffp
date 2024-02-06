@@ -39,3 +39,6 @@ fabfoundationpoland@gmail.com
 
 - rent - Anna - +48 500 134 116
 - general - Judy: + 48 602 698 242
+
+
+##**phone:**
