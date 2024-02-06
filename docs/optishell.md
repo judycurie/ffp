@@ -38,6 +38,29 @@ During the workshop, we will delve into practical aspects of design preparation 
 
 ##Registration
 
+<!-- Noscript content for added SEO -->
+<noscript><a href="https://www.eventbrite.com/e/optishell-workshop-tickets-814122461197" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-814122461197" type="button">Buy Tickets</button>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '814122461197',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-814122461197',
+        onOrderComplete: exampleCallback
+    });
+</script>
+
+
+
 <div id="eventbrite-widget-container-814122461197"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
