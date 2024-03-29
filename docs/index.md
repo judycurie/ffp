@@ -20,11 +20,11 @@ The Fab Foundation Poland - a Polish daughter of the [Fab Foundation](https://fa
 ##[**Rhino User Meeting Europe 2024**](./rhinousermeeting2024.md) [**International Event**]
 ![](nav/assets/events/RU banner.jpg)
 
-##[**OPTIshell workshop**](./optishell.md) [**International Event**]
+##[**GH Masterclass Series**](./ghmasterclass.md) [**Masterclasses**]
 
 
-![](nav/assets/events/IMG_9340a.jpg)
 
+![](nav/assets/events/GH_Masterclass.jpg)
 
 
 made with [Simple Blog for MkDocs](https://github.com/FernandoCelmer/mkdocs-simple-blog)

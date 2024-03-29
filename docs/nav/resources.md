@@ -27,3 +27,12 @@
 [book](http://designingreality.org/)
 [cloud](https://gitlab.fabcloud.org)
 [research](https://cba.mit.edu)
+
+
+#Jobs
+[job board](https://bits-to-atoms.com/articles/)
+
+#Symposia
+
+
+[CDFAM - Computational Design Symposium](https://www.linkedin.com/company/c-d-f-a-m/)
