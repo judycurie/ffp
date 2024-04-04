@@ -36,7 +36,13 @@ See previous events at: [https://events.mcneel.eu/](https://events.mcneel.eu/)
 
 ##**Registration**
 
-<div id="eventbrite-widget-container-876673232237"></div>
+
+
+
+<!-- Noscript content for added SEO -->
+<noscript><a href="https://www.eventbrite.com/e/international-rhino-user-meeting-wrocaw-2024-tickets-876673232237" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-876673232237" type="button">Buy Tickets</button>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -46,17 +52,13 @@ See previous events at: [https://events.mcneel.eu/](https://events.mcneel.eu/)
     };
 
     window.EBWidgets.createWidget({
-        // Required
         widgetType: 'checkout',
         eventId: '876673232237',
-        iframeContainerId: 'eventbrite-widget-container-876673232237',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-876673232237',
+        onOrderComplete: exampleCallback
     });
 </script>
-
 _________
 
 
@@ -90,10 +92,13 @@ International Rhino User Meeting Wroclaw
 Offer for sponsors includes:
 
 
-- **1.** exhibitor booth (desk, monitor, electricity, bring your own computer and roll up banner)
-- **2.**  company logo and website on the official event page and in all our communications
-- **3.**  time for the attendees to visit your booth during registration, coffee and lunch breaks and drinks networking
-- **4.** one free attendee ticket & 1-minute slot presentation to the entire audience
+**1.** exhibitor booth (desk, monitor, electricity, bring your own computer and roll up banner)
+
+**2.**  company logo and website on the official event page and in all our communications
+
+**3.**  time for the attendees to visit your booth during registration, coffee and lunch breaks and drinks networking
+
+**4.** one free attendee ticket & 1-minute slot presentation to the entire audience
 
 
 ![](nav/assets/events/sponsors.jpg)
