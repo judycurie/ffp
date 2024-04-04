@@ -2,6 +2,7 @@
 Fab Foundation Poland is **a non-profit organisation** (verified for Google Nonprofits- Charity ID: 8982288193), therefore donations are in general tax-deducible [more info](../donate/tax-deductions.md). Currently we are trying to set-up a Fab Lab facility in Wrocław. We would appreciate any financial or material support. The list of equipment needed at the bottom of the website.
 
 # [**DONATE HERE**](https://donate.stripe.com/8wM4gPejC4Poblu6op)
+# [**DONATE PAYPAL**](https://paypal.me/fabfndnpl?country.x=PL&locale.x=pl_PL)
 ______________
 
 ## Financial Donations
