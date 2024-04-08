@@ -11,6 +11,8 @@
 ##**Addreses & Data**:
 **Operation Address**: Łokietka 12c, 50-243 Wrocław, Poland [(Check it! - Fab Institute)](.\fablabs\fab-institute.md)
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d993.8867852032538!2d17.03420947280772!3d51.11883535905509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470fe983221ffa8d%3A0x4e43e6ae53eb2930!2sFab%20Institute%20%26%20Fab%20Foundation%20Poland!5e0!3m2!1sen!2snl!4v1712583917421!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 **Registration/ Business Address:** Otwarta 4/4, 50-212  Wrocław, Poland
 
 
