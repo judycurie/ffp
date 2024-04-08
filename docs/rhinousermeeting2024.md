@@ -95,7 +95,7 @@ ___________
 ![](nav/assets/events/call-sponsors.jpg)
 #**Call for sponsosrs**
 International Rhino User Meeting Wroclaw
-120 attendees expected
+80-100 attendees expected
 
 Offer for sponsors includes:
 
