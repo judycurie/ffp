@@ -5,7 +5,7 @@
 
 [Gender Equality Plan for Fab Foundation Poland (GEP) 2023-2027](../assets/GEP-v1.0.pdf)
 
-
+[Privacy Policy](https://docs.google.com/document/d/1w44acJjij1-A3fiMPf9jb2WRZewqN-62/edit?usp=sharing&ouid=100384525150123064384&rtpof=true&sd=true)
 
 ## **RESOLUTIONS**
 
