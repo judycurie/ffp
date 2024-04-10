@@ -29,7 +29,7 @@ See previous events at: [https://events.mcneel.eu/](https://events.mcneel.eu/)
 
 ##**Check the detailed program!**
 
-Preliminary Agenda available soon.
+
 
 [Preliminary Agenda](https://docs.google.com/document/d/1o1dcEfPtly8Wxo-IktzwI-nctwLoe6BelZDURPr2yFs/edit?usp=sharing)
 
@@ -45,7 +45,7 @@ Some recommended attractions: [visitwroclaw.eu](https://visitwroclaw.eu/en/)
 Attendee Ticket includes:
 
  - pass to the all day event (conference & exhibitor space)
- - lunch, coffee & snacks, lunch, wine and appetizers at the reception
+ - lunch, coffee & snacks, wine and appetizers at the reception
  - access to the evening social event  (reception with live music)
 
 <!-- Noscript content for added SEO -->
@@ -88,35 +88,27 @@ David Rutten (McNeel), Michael Drobnik (Herzog & de Meuron), Chritoph Wabel (ETH
 and many other distinguished academics and professionals, complete list of speakers available: [https://events.mcneel.eu/](https://events.mcneel.eu/)
 
 
-##**To become a Speaker at the International Rhino User Meeting Wrocław 2024:** contact: Judy Curie, judy@fabfoundation.pl
+**To become a Speaker at the International Rhino User Meeting Wrocław 2024:**
+
+Contact us: Judy Curie, judy@fabfoundation.pl
 
 
 ___________
 ![](nav/assets/events/call-sponsors.jpg)
 #**Call for sponsors**
 International Rhino User Meeting Wroclaw
-80-100 attendees expected
-
-Offer for sponsors includes:
+80-100 attendees expected.
 
 
-**1.** exhibitor booth (desk, monitor, electricity, bring your own computer and roll up banner)
 
-**2.**  company logo and website on the official event page and in all our communications
+**Exhibiting partners in previous events:**
 
-**3.**  time for the attendees to visit your booth during registration, coffee and lunch breaks and drinks networking
-
-**4.** one free attendee ticket & 1-minute slot presentation to the entire audience
+![](nav/assets/events/partners-logos.png)
 
 
-![](nav/assets/events/sponsors.jpg)
+ **To become an official sponsor of the International Rhino User Meeting Wrocław 2024:**
 
-**Exhibiting partners in previous events include:**
-
-![](nav/assets/events/rhino-partners.jpg)
-
-
-## **To become an official sponsor of the International Rhino User Meeting Wrocław 2024:** contact: Judy Curie, judy@fabfoundation.pl
+ Contact us: Judy Curie, judy@fabfoundation.pl
 
 
 
@@ -144,7 +136,7 @@ The underground parking available.
 **Fig.**  Bulvary (the entrances are marked with triangles).
 ____________
 #CONNECTIONS
-**DIRECT FLIGHTS**
+**DIRECT FLIGHTS TO WROCŁAW**
 ![](nav/assets/events/flight-map-light.jpg)
 **Fig.**  Direct flight connections.
 
