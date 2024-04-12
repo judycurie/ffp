@@ -108,7 +108,7 @@ International Rhino User Meeting Wroclaw
 
  **To become an official sponsor of the International Rhino User Meeting Wrocław 2024:**
 
- Contact us: Judy Curie, judy@fabfoundation.pl
+ Contact us: Judy Curie, fabfoundationpoland@gmail.com
 
 
 
