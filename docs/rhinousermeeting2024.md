@@ -23,7 +23,7 @@ Watch presentations and get hands-on with live software demonstrations from our 
 
 See previous events at: [https://events.mcneel.eu/](https://events.mcneel.eu/)
 
-**Contact:** Judy Curie, judy@fabfoundation.pl
+**Contact:** Judy Curie, fabfoundationpoland@gmail.com
 
 
 
@@ -90,7 +90,7 @@ and many other distinguished academics and professionals, complete list of speak
 
 **To become a Speaker at the International Rhino User Meeting Wrocław 2024:**
 
-Contact us: Judy Curie, judy@fabfoundation.pl
+Contact us: Judy Curie, fabfoundationpoland@gmail.com
 
 
 ___________
