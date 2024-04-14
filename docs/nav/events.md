@@ -8,11 +8,13 @@
 
 
 ##Fab Foundation Poland Calendar
-<iframe src="https://embed.styledcalendar.com/#I979fw9Qk0icpFR0n2AP" title="Styled Calendar" class="styled-calendar-container" style="width: 100%; border: none;" data-cy="calendar-embed-iframe"></iframe>
+<iframe src="https://embed.styledcalendar.com/#aFbvYAu8NK0vnQRctX10" title="Styled Calendar" class="styled-calendar-container" style="width: 100%; border: none;" data-cy="calendar-embed-iframe"></iframe>
 <script async type="module" src="https://embed.styledcalendar.com/assets/parent-window.js"></script>
 
-[Copy our calendar](https://calendar.google.com/calendar/u/0?cid=ZmFiZm91bmRhdGlvbnBvbGFuZEBnbWFpbC5jb20)
+[FFP] - events orgnized by Fab Foundation Poland
+[GLOBAL]* - international events (not organized by Fab Foundation Poland)
 
+[Copy our calendar](https://calendar.google.com/calendar/u/0?cid=ZmFiZm91bmRhdGlvbnBvbGFuZEBnbWFpbC5jb20)
 
 #**2023**
 1. [231216- Christmas Dinner](./e001.md) [**Social Event**]

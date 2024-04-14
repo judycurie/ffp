@@ -8,10 +8,11 @@
 
 
 
-![](nav/assets/events/RUM-banner.jpg)
+![](nav/assets/events/RUM-banner-eventbrite.jpg)
 
 # **International Rhino User Meeting 2024 for the first time in Poland!**
 
+##**General Information**
 
 **Fab Foundation Poland**, in collaboration with **McNeel Europe**, organizes an **International Rhino User Meeting in Wrocław** on the **7th June 2024** (Friday).
 
@@ -48,26 +49,13 @@ Attendee Ticket includes:
  - lunch, coffee & snacks, wine and appetizers at the reception
  - access to the evening social event  (reception with live music)
 
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.com/e/international-rhino-user-meeting-wrocaw-2024-tickets-876673232237" rel="noopener noreferrer" target="_blank">Buy Tickets on Eventbrite</a></noscript>
-<!-- You can customize this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-876673232237" type="button">Buy Tickets</button>
 
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+#[BUY TICKETS](https://www.eventbrite.com/e/pln-international-rhino-user-meeting-wrocaw-2024-tickets-882847991107?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl)
 
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
 
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '876673232237',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-876673232237',
-        onOrderComplete: exampleCallback
-    });
-</script>
+
+##[JOIN LINKEDIN EVENT](https://www.linkedin.com/events/internationalrhinousermeeting207183176715462918144/)
+
 _________
 
 
@@ -77,18 +65,18 @@ _________
 #**Call for speakers**
 
 
-**Confirmed speakers:**
+##**Confirmed speakers:**
 
 ![](nav/assets/events/RUM.png)
 
 
-**Previous speakers:**
+##**Previous speakers:**
 
 David Rutten (McNeel), Michael Drobnik (Herzog & de Meuron), Chritoph Wabel (ETH Zurich), Angelos Chronis (Austrian Institute of Technology), Detlef Muller (adidas AG), Tom van Mele (Compas), Ursula Frick (Blumer-Lehmann AG)
 and many other distinguished academics and professionals, complete list of speakers available: [https://events.mcneel.eu/](https://events.mcneel.eu/)
 
 
-**To become a Speaker at the International Rhino User Meeting Wrocław 2024:**
+##**To become a Speaker at the International Rhino User Meeting Wrocław 2024:**
 
 Contact us: Judy Curie, fabfoundationpoland@gmail.com
 
@@ -101,12 +89,12 @@ International Rhino User Meeting Wroclaw
 
 
 
-**Exhibiting partners in previous events:**
+##**Exhibiting partners in previous events:**
 
 ![](nav/assets/events/partners-logos.png)
 
 
- **To become an official sponsor of the International Rhino User Meeting Wrocław 2024:**
+##**To become an official sponsor of the International Rhino User Meeting Wrocław 2024:**
 
  Contact us: Judy Curie, fabfoundationpoland@gmail.com
 
@@ -114,7 +102,7 @@ International Rhino User Meeting Wroclaw
 
 
 ______
-#ACCOMPANYING workshops
+#**ACCOMPANYING workshops**
 
 On the weekend following the International Rhino User Meeting Wroclaw 2024 we are hosting 4th Masterclass of the Grasshopper Masterclass series:
 
@@ -123,7 +111,7 @@ MASTERCLASS 4 | 08-09th June 2024 | complex definitions, project organization an
 [**registration**](https://www.eventbrite.com/e/gh-masx10-masterclass-4-tickets-878433798137?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl)
 [**more info**](https://fabfoundation.pl/ghmasterclass/)
 _______
-#Location
+#**Location**
 
 **Main event**: Bulvary, Księcia Witolda 11, 50-202 Wrocław, Poland, [Bulvary](https://bulvary.pl/)
 
@@ -135,7 +123,7 @@ The underground parking available.
 ![](nav/assets/events/RUM-location.jpg)
 **Fig.**  Bulvary (the entrances are marked with triangles).
 ____________
-#CONNECTIONS
+#**CONNECTIONS**
 **DIRECT FLIGHTS TO WROCŁAW**
 ![](nav/assets/events/flight-map-light.jpg)
 **Fig.**  Direct flight connections.
@@ -159,9 +147,9 @@ ____________
 - Wroclaw (PL) - Vienna (AT) (EC Train takes around 8:00h)
 - Wroclaw (PL) -  Warsaw (PL) (IC Train takes around 4:30h, EIP Express Train takes 3:35h)
 - Wroclaw (PL) - Krakow (PL) (IC Train takes around 3:00h)
+_____
 
-
-#PREVIOUS EVENTS ORGANIZED BY FAB FOUNDATION POLAND
+#**PREVIOUS EVENTS ORGANIZED BY FAB FOUNDATION POLAND**
 ![](nav/assets/events/fab-academy-1-2.jpg)
 **Fig.**  Fab Academy Lectures Screenings at Bulvary.
 ![](nav/assets/events/fab-academy-2-2.jpg)

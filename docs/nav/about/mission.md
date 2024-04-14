@@ -19,7 +19,7 @@
 - provide the fab lab facilities to public in Poland
 - organize the Fab Academy course led by prof. Neil Gershenfeld (MIT) in Poland
 - develop open-source projects to help the housing crises in Poland & Ukraine
-- create inspiring environment & supportive community for people of any age, race, orientation, prior experience to make them feel cable of creating (almost) anything
+- create an inspiring environment & supportive community for people of any age, race, orientation, or prior experience to make them feel capable of creating (almost) anything
 
 ![](../assets/about/IMG-7782.jpg)
 

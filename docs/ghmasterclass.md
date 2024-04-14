@@ -36,10 +36,17 @@ Whether you're a beginner eager to get started or a seasoned professional lookin
 
 Join us and become a master of parametric design with Rhino and Grasshopper. Let your creativity soar like never before!
 
+##**Location**:
+All the masterclasses are onsite in Wrocław:
+
+Fab Institute, Łokietka 12c, 50-243 Wrocław, Poland, [Fab Institute](https://fabfoundation.pl/nav/fablabs/fab-institute/)
+
+##**Duration**:
+2-day masterclass every second weekend! (Saturday 10.00AM-6.00PM, Sunday 10.00AM-6.00PM)
 
 ##**Check the detailed program!**
 
-2-day masterclass every second weekend!
+
 
 
 
@@ -55,15 +62,27 @@ Join us and become a master of parametric design with Rhino and Grasshopper. Let
 - **MASTERCLASS 10** | 31st Aug-1st Sept 2024 |user_defined_2 (flexible)
 
 
-
-
-
-##**Registration**
-
- [Register here](https://www.eventbrite.com/cc/gh-masx10-a-grasshopper-masterclass-series-3254029?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=odclsxcollection)
-
-
 ##**Visit Wrocław!**
 Some recommended attractions: [visitwroclaw.eu](https://visitwroclaw.eu/en/)
 
-3-day in Wroclaw English guide: [pdf](https://visitwroclaw.eu/en/files-en/dokumenty/6535/3%20days%20in%20Wroclaw_EN.pdf)
+ 3-day in Wroclaw English guide: [pdf](https://visitwroclaw.eu/en/files-en/dokumenty/6535/3%20days%20in%20Wroclaw_EN.pdf)
+
+
+
+
+#[**Register here**](https://www.eventbrite.com/cc/gh-masx10-a-grasshopper-masterclass-series-3254029?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=odclsxcollection)
+
+
+
+![](nav/assets/events/GH_M.jpg)
+![](nav/assets/events/GH_M2.jpg)
+![](nav/assets/events/GH_M3.jpg)
+![](nav/assets/events/GH_M4.jpg)
+![](nav/assets/events/GH_M5.jpg)
+![](nav/assets/events/GH_M6.jpg)
+![](nav/assets/events/GH_M7.jpg)
+![](nav/assets/events/GH_M8.jpg)
+![](nav/assets/events/GH_M9.jpg)
+![](nav/assets/events/GH_M10.jpg)
+
+#[**Register here**](https://www.eventbrite.com/cc/gh-masx10-a-grasshopper-masterclass-series-3254029?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=odclsxcollection)
