@@ -8,7 +8,7 @@
 
 
 
-![](nav/assets/events/RUM-banner-eventbrite.jpg)
+![](nav/assets/events/RUM4.png)
 
 # **International Rhino User Meeting 2024 for the first time in Poland!**
 
@@ -67,7 +67,8 @@ _________
 ##**Confirmed speakers:**
 
 ![](nav/assets/events/RUM.png)
-
+![](nav/assets/events/RUM2.png)
+![](nav/assets/events/RUM3.png)
 
 ##**Previous speakers:**
 
@@ -82,11 +83,15 @@ Contact us: Judy Curie, fabfoundationpoland@gmail.com
 
 ___________
 ![](nav/assets/events/call-sponsors.jpg)
+
 #**Call for sponsors**
 International Rhino User Meeting Wroclaw
 80-100 attendees expected.
 
 
+##**Confirmed sponsors:**
+
+![](nav/assets/events/sponsors-confirmed.png)
 
 ##**Exhibiting partners in previous events:**
 
