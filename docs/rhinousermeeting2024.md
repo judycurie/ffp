@@ -50,7 +50,9 @@ Attendee Ticket includes:
  - access to the evening social event  (reception with live music)
 
 
-#[BUY TICKETS](https://www.eventbrite.com/e/international-rhino-user-meeting-wrocaw-2024-tickets-882847991107?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl)
+#[BUY TICKETS - eventbrite](https://www.eventbrite.com/e/international-rhino-user-meeting-wrocaw-2024-tickets-882847991107?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl)
+
+#[PAY YOUR TICKET BY TRANSFER](https://forms.gle/djkDeWRhGhALTpyv8)
 
 
 ##[JOIN LINKEDIN EVENT](https://www.linkedin.com/events/internationalrhinousermeeting207183176715462918144/)

@@ -18,7 +18,8 @@ The Fab Foundation Poland - a Polish daughter of the [Fab Foundation](https://fa
 # MAJORS EVENTS!
 
 ##[**Rhino User Meeting Europe 2024**](./rhinousermeeting2024.md) [**International Event**]
-![](nav/assets/events/RUM-banner.jpg)
+![](nav/assets/events/RUM4.png)
+
 
 ##[**GH Masterclass Series**](./ghmasterclass.md) [**Masterclasses**]
 
