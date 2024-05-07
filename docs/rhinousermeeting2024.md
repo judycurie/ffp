@@ -8,7 +8,7 @@
 
 
 
-![](nav/assets/events/RUM4.png)
+![](nav/assets/events/RUM-banner.png)
 
 # **International Rhino User Meeting 2024 for the first time in Poland!**
 
@@ -71,6 +71,7 @@ _________
 ![](nav/assets/events/RUM.png)
 ![](nav/assets/events/RUM2.png)
 ![](nav/assets/events/RUM3.png)
+![](nav/assets/events/RUM4.png)
 
 ##**Previous speakers:**
 
