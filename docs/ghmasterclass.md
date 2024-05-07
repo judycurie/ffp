@@ -47,9 +47,6 @@ Fab Institute, Łokietka 12c, 50-243 Wrocław, Poland, [Fab Institute](https://f
 ##**Check the detailed program!**
 
 
-
-
-
 - **MASTERCLASS 1** | 27-28th April 2024 | user interface, geometry types, Rhino/GH connection
 - **MASTERCLASS 2** | 11-12th May 2024 | data flow, paneling, geometry rationalization
 - **MASTERCLASS 3** | 25-26th May 2024 | data I/O, excel, csv, data visualization,  geometry for fabrication
@@ -61,6 +58,8 @@ Fab Institute, Łokietka 12c, 50-243 Wrocław, Poland, [Fab Institute](https://f
 - **MASTERCLASS 9** | 17-18th August 2024 | user_defined_1 (flexible)
 - **MASTERCLASS 10** | 31st Aug-1st Sept 2024 |user_defined_2 (flexible)
 
+
+##[Detailed Program](https://docs.google.com/document/d/1wSE3tbdQUosJFXzS0XVwUW4YGrsqglOkHP1cl40cTl8/edit?usp=sharing)
 
 ##**Visit Wrocław!**
 Some recommended attractions: [visitwroclaw.eu](https://visitwroclaw.eu/en/)

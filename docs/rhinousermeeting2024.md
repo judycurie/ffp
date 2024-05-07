@@ -50,9 +50,9 @@ Attendee Ticket includes:
  - access to the evening social event  (reception with live music)
 
 
-#[BUY TICKETS - eventbrite](https://www.eventbrite.com/e/international-rhino-user-meeting-wrocaw-2024-tickets-882847991107?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl)
 
-#[PAY YOUR TICKET BY TRANSFER](https://forms.gle/djkDeWRhGhALTpyv8)
+
+#[BUY TICKETS](https://forms.gle/djkDeWRhGhALTpyv8)
 
 
 ##[JOIN LINKEDIN EVENT](https://www.linkedin.com/events/internationalrhinousermeeting207183176715462918144/)
@@ -115,7 +115,7 @@ On the weekend following the International Rhino User Meeting Wroclaw 2024 we ar
 
 ![](nav/assets/events/GH_M4.jpg)
 MASTERCLASS 4 | 08-09th June 2024 | complex definitions, project organization and helpful plugins
-[**registration**](https://www.eventbrite.com/e/gh-masx10-masterclass-4-tickets-878433798137?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl)
+[**registration**](https://forms.gle/rX2ixT3q4DdfnPGD9)
 [**more info**](https://fabfoundation.pl/ghmasterclass/)
 _______
 #**Location**
