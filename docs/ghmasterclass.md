@@ -55,8 +55,8 @@ Fab Institute, Łokietka 12c, 50-243 Wrocław, Poland, [Fab Institute](https://f
 - **MASTERCLASS 6** | 06-07th July 2024 | automating tasks with Anemone, scripting introduction
 - **MASTERCLASS 7** | 20-21th July 2024 | Kangaroo
 - **MASTERCLASS 8** | 03-04th August 2024 | scripting
-- **MASTERCLASS 9** | 17-18th August 2024 | user_defined_1 (flexible)
-- **MASTERCLASS 10** | 31st Aug-1st Sept 2024 |user_defined_2 (flexible)
+- **MASTERCLASS 9** | 17-18th August 2024 | user_defined_1 (C#)
+- **MASTERCLASS 10** | 31st Aug-1st Sept 2024 |user_defined_2 (your GH component)
 
 
 ##[Detailed Program](https://docs.google.com/document/d/1wSE3tbdQUosJFXzS0XVwUW4YGrsqglOkHP1cl40cTl8/edit?usp=sharing)
@@ -69,7 +69,7 @@ Some recommended attractions: [visitwroclaw.eu](https://visitwroclaw.eu/en/)
 
 
 
-#[**Register here**](https://www.eventbrite.com/cc/gh-masx10-a-grasshopper-masterclass-series-3254029?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=odclsxcollection)
+#[**Register here**](https://forms.gle/rX2ixT3q4DdfnPGD9)
 
 
 
@@ -84,4 +84,4 @@ Some recommended attractions: [visitwroclaw.eu](https://visitwroclaw.eu/en/)
 ![](nav/assets/events/GH_M9.jpg)
 ![](nav/assets/events/GH_M10.jpg)
 
-#[**Register here**](https://www.eventbrite.com/cc/gh-masx10-a-grasshopper-masterclass-series-3254029?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=odclsxcollection)
+#[**Register here**](https://forms.gle/rX2ixT3q4DdfnPGD9)
