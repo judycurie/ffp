@@ -32,23 +32,21 @@ Fab Institute aims to transform into maker space/ Fab Lab unit. At the momement 
 ![](../assets/fablabs/DSC_5585a.jpg)
 ![](../assets/fablabs/meeting room.jpg)
 
-![](../assets/fablabs/231220_now-conf.jpg)
-**Fig.** The current arrangement for the conference (40people) venue.
-![](../assets/fablabs/231220_aim.jpg)
-**Fig.** The target arrangement for Fab Institute (a Fab Academy node).
+
 
 
 #**For rent!**
 
-#Office M (Meeting Room)
+##**Office M (Meeting Room)**
 ![](../assets/fablabs/IMG_9496.jpg)
 
 - **capacity:** 4-6 people
 - **area:** 26.2m2
 - **features:** individual entrance, exlusive kitchen and bathroom, equipped with white board and large screen
 - **price:** 2500PLN/month including everything (heating, water, electricity, internet)
+- **rent for days**: possibility to rent the office ocassionly for days (min. one day), or for reccurent events (e.g. 2 days each week, or one weekend in a month), prices are negotiated based on the request
 - **check availability with Ania:** +48 500 134 116
-- [**OLX link** - works if offer available](https://www.olx.pl/d/oferta/przytulne-biuro-w-centrum-wroclawia-26-1-m2-CID3-IDY01cc.html?bs=olx_pro_listing&isPreviewActive=0&sliderIndex=5)
+
 
 
 ##**Office XS**
@@ -60,14 +58,21 @@ Fab Institute aims to transform into maker space/ Fab Lab unit. At the momement 
 - **features:** access to shared fully-equiped kitchen, bathroom and call room (a dedicated room for comaking space and XS office users to run virtual meetings in private)
 - **price:** 1500PLN/month including everything (heating, water, electricity, internet)
 - **check availability with Ania:** +48 500 134 116
-- [**OLX link** - works if offer available](https://www.olx.pl/d/oferta/przytulne-biuro-w-centrum-wroclawia-11-8-m2-CID3-IDYbPL8.html?reason=ip%7Clister)
+
 
 ##**Desks in comaking space**
 ![](../assets/fablabs/desks.jpg)
 
 - **capacity:** 1 person
-- **area:** an individual workspace in the large co-making area including large comfortable desk 140x70cm, chair and a desk cupboard
+- **area:** an individual dedicated workspace in the large co-making area including large comfortable desk 140x70cm, chair and a desk cupboard
 - **features:** access to shared fully-equiped kitchen, bathroom and call room (a dedicated room for comaking space and XS office users to run virtual meetings in private)
 - **price:** 500PLN/month including everything (heating, water, electricity, internet)
+- **rent for the weekend event**: it is possible to rent the entire ground floor for small conference (up to 40 people), workshop, seminar, business meeting, photoshooting etc. on selected weekends, prices and conditions are negotiated based on the request
 - **check availability with Ania:** +48 500 134 116
-- [**OLX link** - works if offer available](https://www.olx.pl/d/oferta/biurko-w-coworking-space-CID3-IDYcXJS.html?bs=olx_pro_listing)
+
+![](../assets/fablabs/231220_now-conf.jpg)
+**Fig.** The current arrangement for the conference (40people) venue.
+
+#**Fab Institute to be**
+![](../assets/fablabs/231220_aim.jpg)
+**Fig.** The target arrangement for Fab Institute (a Fab Academy node).

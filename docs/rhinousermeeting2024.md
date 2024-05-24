@@ -8,7 +8,7 @@
 
 
 
-![](nav/assets/events/RUM-banner.png)
+![](nav/assets/events/IRUM-banner.png)
 
 # **International Rhino User Meeting 2024 for the first time in Poland!**
 
@@ -35,7 +35,7 @@ See previous events at: [https://events.mcneel.eu/](https://events.mcneel.eu/)
 [Preliminary Agenda](https://docs.google.com/document/d/1o1dcEfPtly8Wxo-IktzwI-nctwLoe6BelZDURPr2yFs/edit?usp=sharing)
 
 ## **After hours:**
-If you plan on staying in Wrocław the following weekend we can recommend you attend the 2-day advance [Rhino-Grasshopper masterclass](https://www.eventbrite.com/e/gh-masx10-masterclass-4-tickets-878433798137?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) or simply enjoy Wrocław!
+If you plan on staying in Wrocław the following weekend we can recommend you attend the 2-day advance [GH_MASX10 - MASTERCLASS 4](https://fabfoundation.pl/ghmasterclass/) or simply enjoy Wrocław!
 
 Some recommended attractions: [visitwroclaw.eu](https://visitwroclaw.eu/en/)
 3-day in Wroclaw English guide: [pdf](https://visitwroclaw.eu/en/files-en/dokumenty/6535/3%20days%20in%20Wroclaw_EN.pdf)
@@ -68,10 +68,8 @@ _________
 
 ##**Confirmed speakers:**
 
-![](nav/assets/events/RUM.png)
-![](nav/assets/events/RUM2.png)
-![](nav/assets/events/RUM3.png)
-![](nav/assets/events/RUM4.png)
+![](nav/assets/events/RUM10.png)
+
 
 ##**Previous speakers:**
 
