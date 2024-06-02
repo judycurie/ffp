@@ -32,10 +32,11 @@ See previous events at: [https://events.mcneel.eu/](https://events.mcneel.eu/)
 
 
 
-[Preliminary Agenda](https://docs.google.com/document/d/1o1dcEfPtly8Wxo-IktzwI-nctwLoe6BelZDURPr2yFs/edit?usp=sharing)
+#[Preliminary Agenda](https://docs.google.com/document/d/1o1dcEfPtly8Wxo-IktzwI-nctwLoe6BelZDURPr2yFs/edit?usp=sharing)
 
 ## **After hours:**
-If you plan on staying in Wrocław the following weekend we can recommend you attend the 2-day advance [GH_MASX10 - MASTERCLASS 4](https://fabfoundation.pl/ghmasterclass/) or simply enjoy Wrocław!
+If you plan on staying in Wrocław the following weekend we can recommend you attend the 2-day advance [GH_MASX10 - MASTERCLASS 4](https://fabfoundation.pl/ghmasterclass/) or simply enjoy Wrocław! -
+#**MASTERCLASS 4 SOLD OUT**
 
 Some recommended attractions: [visitwroclaw.eu](https://visitwroclaw.eu/en/)
 3-day in Wroclaw English guide: [pdf](https://visitwroclaw.eu/en/files-en/dokumenty/6535/3%20days%20in%20Wroclaw_EN.pdf)
@@ -111,10 +112,11 @@ ______
 
 On the weekend following the International Rhino User Meeting Wroclaw 2024 we are hosting 4th Masterclass of the Grasshopper Masterclass series:
 
-![](nav/assets/events/GH_M4.jpg)
+![](nav/assets/events/RUM16.png)
 MASTERCLASS 4 | 08-09th June 2024 | complex definitions, project organization and helpful plugins
 [**registration**](https://forms.gle/rX2ixT3q4DdfnPGD9)
 [**more info**](https://fabfoundation.pl/ghmasterclass/)
+#**!!!MASTERCLASS 4 SOLD OUT!!!**
 _______
 #**Location**
 
@@ -125,8 +127,15 @@ The underground parking available.
 
 **Workshops**: Fab Institute, Łokietka 12c, 50-243 Wrocław, Poland, [Fab Institute](https://fabfoundation.pl/nav/fablabs/fab-institute/)
 
-![](nav/assets/events/RUM-location.jpg)
-**Fig.**  Bulvary (the entrances are marked with triangles).
+![](nav/assets/events/MAP.jpg)
+**Fig.**  Bulvary & Fab Institute (the entrances are marked with triangles).
+
+
+![](nav/assets/events/MAP1.jpg)
+**Fig.**  Bulvary (the entrance is marked with triangles).
+
+![](nav/assets/events/MAP2.jpg)
+**Fig.**  Fab Institute (the entrance is marked with triangles).
 ____________
 #**CONNECTIONS**
 **DIRECT FLIGHTS TO WROCŁAW**
