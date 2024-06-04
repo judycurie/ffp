@@ -8,7 +8,7 @@
 
 
 
-![](nav/assets/events/IRUM-banner.png)
+![](nav/assets/events/IRUM2.png)
 
 # **International Rhino User Meeting 2024 for the first time in Poland!**
 
@@ -36,7 +36,7 @@ See previous events at: [https://events.mcneel.eu/](https://events.mcneel.eu/)
 
 ## **After hours:**
 If you plan on staying in Wrocław the following weekend we can recommend you attend the 2-day advance [GH_MASX10 - MASTERCLASS 4](https://fabfoundation.pl/ghmasterclass/) or simply enjoy Wrocław! -
-#**MASTERCLASS 4 SOLD OUT**
+#**!!!MASTERCLASS 4 SOLD OUT!!!**
 
 Some recommended attractions: [visitwroclaw.eu](https://visitwroclaw.eu/en/)
 3-day in Wroclaw English guide: [pdf](https://visitwroclaw.eu/en/files-en/dokumenty/6535/3%20days%20in%20Wroclaw_EN.pdf)
@@ -93,7 +93,7 @@ International Rhino User Meeting Wroclaw
 
 ##**Confirmed sponsors:**
 
-![](nav/assets/events/sponsors-confirmed.png)
+![](nav/assets/events/IRUM-sponsors.png)
 
 ##**Exhibiting partners in previous events:**
 
@@ -132,10 +132,10 @@ The underground parking available.
 
 
 ![](nav/assets/events/MAP1.jpg)
-**Fig.**  Bulvary (the entrance is marked with triangles).
+**Fig.**  Bulvary (the entrance is marked with triangle).
 
 ![](nav/assets/events/MAP2.jpg)
-**Fig.**  Fab Institute (the entrance is marked with triangles).
+**Fig.**  Fab Institute (the entrance is marked with triangle).
 ____________
 #**CONNECTIONS**
 **DIRECT FLIGHTS TO WROCŁAW**
