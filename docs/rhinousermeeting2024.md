@@ -32,7 +32,7 @@ See previous events at: [https://events.mcneel.eu/](https://events.mcneel.eu/)
 
 
 
-#[Preliminary Agenda](https://docs.google.com/document/d/1o1dcEfPtly8Wxo-IktzwI-nctwLoe6BelZDURPr2yFs/edit?usp=sharing)
+#[Agenda](https://docs.google.com/document/d/1o1dcEfPtly8Wxo-IktzwI-nctwLoe6BelZDURPr2yFs/edit?usp=sharing)
 
 ## **After hours:**
 If you plan on staying in Wrocław the following weekend we can recommend you attend the 2-day advance [GH_MASX10 - MASTERCLASS 4](https://fabfoundation.pl/ghmasterclass/) or simply enjoy Wrocław! -
@@ -163,12 +163,36 @@ ____________
 - Wroclaw (PL) - Krakow (PL) (IC Train takes around 3:00h)
 _____
 
-#**PREVIOUS EVENTS ORGANIZED BY FAB FOUNDATION POLAND**
-![](nav/assets/events/fab-academy-1-2.jpg)
-**Fig.**  Fab Academy Lectures Screenings at Bulvary.
-![](nav/assets/events/fab-academy-2-2.jpg)
-**Fig.**  Fab Academy Lectures Screenings at Bulvary.
-![](nav/assets/events/fab-academy-3-2.jpg)
-**Fig.**  Fab Academy Lectures Screenings at Bulvary.
-![](nav/assets/events/optishell.jpg)
-**Fig.**  OPTIshell workshop.
+#**PHOTOS shared in courtesy of FAB FOUNDATION POLAND**
+
+All the below phots please
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1841.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1844.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1897.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1899.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1915.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1921.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1945.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1965.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1987.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1987.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1989.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1993.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1997.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF2006.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF2023.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF2048.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF2063.jpg)
+![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF2082.jpg)
+
+Please find our Github repository with the photos:
+#[PHOTOS GITHUB REPOSITORY](https://github.com/fabfndpl/rhino3dwroclaw2024)
+
+Feel free to use/share the photos, but don't forget give the credit: ""@ credit: author name (title of the folder), shared in courtesy of Fab Foundation Poland".
+#**VIDEOS shared in courtesy of FAB FOUNDATION POLAND**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p4S88mAUjL8?si=nHimAa3zfzodB0Zg&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#[VIDEOS](https://www.youtube.com/watch?v=NUCARdna8CY&list=PLE5Ko9WUI1VSsGls4WuEXRAruHEGbgntE)
