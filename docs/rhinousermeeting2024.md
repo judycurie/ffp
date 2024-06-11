@@ -165,34 +165,59 @@ _____
 
 #**PHOTOS shared in courtesy of FAB FOUNDATION POLAND**
 
-All the below phots please
+All the below photos please
 @ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
 
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1841.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1844.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1897.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1899.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1915.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1921.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1945.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1965.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1987.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1987.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1989.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1993.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF1997.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF2006.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF2023.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF2048.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF2063.jpg)
-![](nav/assets/events/irum/f20240607-104442_RhinoUserMeeting_DSCF2082.jpg)
+![](nav/assets/events/irum/20240607-104442_RhinoUserMeeting_DSCF1841.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-104630_RhinoUserMeeting_DSCF1844.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-111853_RhinoUserMeeting_DSCF1897.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-111855_RhinoUserMeeting_DSCF1899.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-112059_RhinoUserMeeting_DSCF1915.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-112147_RhinoUserMeeting_DSCF1921.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-152351_RhinoUserMeeting_DSCF2103.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-153323_RhinoUserMeeting_DSCF2145.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-153925_RhinoUserMeeting_DSCF2173.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-154620_RhinoUserMeeting_DSCF2240.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-154626_RhinoUserMeeting_DSCF2244.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-154629_RhinoUserMeeting_DSCF2246.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-154702_RhinoUserMeeting_DSCF2249.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-154839_RhinoUserMeeting_DSCF2269.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-155850_RhinoUserMeeting_DSCF2379.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-160053_RhinoUserMeeting_DSCF2384.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-163656_RhinoUserMeeting_DSCF2461.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-163950_RhinoUserMeeting_DSCF2497.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-170952_RhinoUserMeeting_DSCF2601.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
+![](nav/assets/events/irum/20240607-171219_RhinoUserMeeting_DSCF2609.jpg)
+@ credit: Krzysztof Nazar, shared in courtesy of Fab Foundation Poland
 
-Please find our Github repository with the photos:
-#[PHOTOS GITHUB REPOSITORY](https://github.com/fabfndpl/rhino3dwroclaw2024)
+Please find all the photos from our volonteer photographers:
+#[GOOGLE DRIve - PHOTOS](https://drive.google.com/drive/folders/1hkcMZhC1JehWI-w_30pZfHEVaj9ly4Wv?usp=drive_link)
 
-Feel free to use/share the photos, but don't forget give the credit: ""@ credit: author name (title of the folder), shared in courtesy of Fab Foundation Poland".
+Feel free to use/share the photos, but don't forget give the credit: "credit: author name (title of the folder), shared in courtesy of Fab Foundation Poland".
+
+We encourage you to upload your photos to the drive in the folder with your name as well :).
+
 #**VIDEOS shared in courtesy of FAB FOUNDATION POLAND**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p4S88mAUjL8?si=nHimAa3zfzodB0Zg&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1080" height="630" src="https://www.youtube.com/embed/p4S88mAUjL8?si=nHimAa3zfzodB0Zg&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#[VIDEOS](https://www.youtube.com/watch?v=NUCARdna8CY&list=PLE5Ko9WUI1VSsGls4WuEXRAruHEGbgntE)
+#[VIDEOS](https://www.youtube.com/playlist?list=PLE5Ko9WUI1VSsGls4WuEXRAruHEGbgntE)
