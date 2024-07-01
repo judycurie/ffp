@@ -10,6 +10,8 @@
 
 ![](nav/assets/events/IRUM2.png)
 
+# **International Rhino User Meeting 2024 has already happended but check out our workshops: [GH_MASX10](https://fabfoundation.pl/ghmasterclass/)**
+
 # **International Rhino User Meeting 2024 for the first time in Poland!**
 
 ##**General Information**
@@ -221,3 +223,22 @@ We encourage you to upload your photos to the drive in the folder with your name
 <iframe width="1080" height="630" src="https://www.youtube.com/embed/p4S88mAUjL8?si=nHimAa3zfzodB0Zg&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #[VIDEOS](https://www.youtube.com/playlist?list=PLE5Ko9WUI1VSsGls4WuEXRAruHEGbgntE)
+
+#**Testimonials**
+
+ 1. "It was really amazing to meet so many interesting people and talk to them. Can't wait for the next event! :)"
+ Dawid Drozdz, 18th June 2024, email to FFP
+
+2. "I attended a Rhino User Meeting and want to say it was great, packed with amazing speakers from various industries, I had a very good time and pleasure!"
+Alex Khmil, 18th June 2024, email to FFP
+
+3. "Thank you for everything, it was a wonderful event! ""
+Bereczki Zoltán, 20th June 2024, email to FFP
+
+4. "Inspiring presentations, great talks, and an incredible hashtag#Rhino3D community.""
+Krysztof Wojslaw, 14th June 2024, [likendin post](https://www.linkedin.com/posts/krzysztof-wojslaw_grasshopper-rhino3d-rhino3dwroclaw2024-activity-7206547312813187072-ZoeK?utm_source=share&utm_medium=member_desktop)
+
+5. "Inspiration is the key to propelling your career forward.
+
+I truly believe in that phrase. That's why I attended the Rhino User Meeting in Wrocław. I was deeply inspired by the speakers and their incredible stories, and I had the pleasure of networking with fellow attendees. It was fascinating to learn how people are leveraging the latest innovations in computational design with Grasshopper, not only in the building industry but also across various sectors."
+Kamil Grzebalski, 20th June 2024, [likendin post](https://www.linkedin.com/posts/kamil-grzebalski-676287234_rhino3dwroclaw2024-arup-ugcPost-7209520840470679552-UWzo?utm_source=share&utm_medium=member_desktop)
