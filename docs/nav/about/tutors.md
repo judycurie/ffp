@@ -49,3 +49,23 @@ I am always open to connecting with others, collaborating on projects, and shari
 
 
 More at: [linkedin-agnieszka](https://pl.linkedin.com/in/agnieszka-nowacka-661a39260?original_referer=https%3A%2F%2Fwww.google.com%2F)
+
+____________________________________________
+
+![](../assets/about/kubaoszczyk.jpg)
+## **Kuba Oszczyk**
+
+Kuba is currently working in [Object](https://object.pl/).
+
+Kuba is an enthusiastic, self-thought computational designer and software engineer. He has been working in Object since 2021. In his practice he consults and provides technological advancements to various companies. He works primarily in backend, implementing innovative mathematical solutions in .NET.
+
+He graduated with the MSc Arch. from the Warsaw University of Technology, Faculty of Architecture in 2022. With a strong background in design and mathematics, he immediately became an academic tutor at his alma mater and started conducting classes in parametric design and robotics.
+
+In the spring of 2024, he started a collaboration with the fully accredited online university of DesignMorphine, where he offered his programming expertise as an educator and a chapter lead.  
+
+Some say he looks best on the dancefloor, as he is a former professional ballroom dancer. ;)
+
+
+
+
+More at: [linkedin-agnieszka](https://pl.linkedin.com/in/agnieszka-nowacka-661a39260?original_referer=https%3A%2F%2Fwww.google.com%2F)

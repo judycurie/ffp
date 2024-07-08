@@ -35,7 +35,7 @@ During the workshop, we will delve into practical aspects of design preparation 
 
 
 ##Check the detailed program!
-[OPTIshell workshop program](https://docs.google.com/document/d/1wSE3tbdQUosJFXzS0XVwUW4YGrsqglOkHP1cl40cTl8/edit?usp=sharing)
+[OPTIshell workshop program]https://docs.google.com/document/d/11TRTeDodcVtjMMm5PzYMH_lHnHC-4FENj_p9pVoWmiE/edit?usp=sharing)
 
 ##Registration
 
