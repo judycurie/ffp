@@ -17,9 +17,7 @@ nav:
       - nav/research/areas.md
       - nav/research/international-scientific-council.md
       - nav/resources.md
-    - FabLabs:
-      -  nav/fablabs/fablab-model.md
-      -  nav/fablabs/fab-institute.md
+    - Fab Institute: nav/fablabs/fab-institute.md
     - Events: nav/events.md
 
     - Donate:

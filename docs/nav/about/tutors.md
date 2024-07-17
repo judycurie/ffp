@@ -69,3 +69,18 @@ Some say he looks best on the dancefloor, as he is a former professional ballroo
 
 
 More at: [linkedin-agnieszka](https://pl.linkedin.com/in/agnieszka-nowacka-661a39260?original_referer=https%3A%2F%2Fwww.google.com%2F)
+
+______________________________________________________
+
+![](../assets/about/kiryl.jpg)
+## **Kiryl Furmanchuk**
+
+Kiryl is currently working in [Object](https://object.pl/).
+
+Kiryl studied architecture in Wroclaw Technical University, where he discovered parametric approach to design, that later introduced him to programming.
+Since May 2020 is a .NET developer at Object.
+Has been a programming tutor at Design Morphine, since 2022.
+In his free time focuses on adventures and traveling, rock climbing, skating and occasionally getting injured.
+
+
+More at: [linkedin-Kiryl](https://www.linkedin.com/in/kiryl-furmanchuk-300033141/)
