@@ -76,6 +76,17 @@
 
 ##**August 2024**
 
-10. [240803- GH Masterclass 8 - scripting](../ghmasterclass.md) [**Masterclass**]
-10. [240817- GH Masterclass 9 - user_defined_1](../ghmasterclass.md) [**Masterclass**]
-10. [240831- GH Masterclass 10 - user_defined_2](../ghmasterclass.md) [**Masterclass**]
+summer break
+
+##**September 2024**
+
+10. [240921- GH Masterclass 8 - scripting](../ghmasterclass.md) [**Masterclass**]
+11. 240928 -  Meet & Code Laser Cut (to be confirmed)
+
+##**October 2024**
+
+10. [241005- GH Masterclass 9 -C#](../ghmasterclass.md) [**Masterclass**]
+11. 241012 -  Meet & Code 3D Print (to be confirmed)
+
+10. [241019- GH Masterclass 10 - user_defined_2](../ghmasterclass.md) [**Masterclass**]
+11. 241026 -  Meet & Code Electronics (to be confirmed)

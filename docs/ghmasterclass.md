@@ -54,9 +54,14 @@ Fab Institute, Łokietka 12c, 50-243 Wrocław, Poland, [Fab Institute](https://f
 - **MASTERCLASS 5** | 22-23th June 2024 | looping with Anemone, generative design
 - **MASTERCLASS 6** | 06-07th July 2024 | automating tasks with Anemone, scripting introduction
 - **MASTERCLASS 7** | 20-21th July 2024 | Kangaroo
-- **MASTERCLASS 8** | 03-04th August 2024 | scripting
-- **MASTERCLASS 9** | 17-18th August 2024 | user_defined_1 (C#)
-- **MASTERCLASS 10** | 31st Aug-1st Sept 2024 |user_defined_2 (your GH component)
+
+summer break
+
+CODING MASTERCLASS BUNDLE - take it seperate or together!
+
+- **MASTERCLASS 8** | 21-22th September 2024 | scripting
+- **MASTERCLASS 9** | 05-06th October 2024 | C#
+- **MASTERCLASS 10** | 19-20th October 2024 |your GH component
 
 
 ##[Detailed Program](https://docs.google.com/document/d/1wSE3tbdQUosJFXzS0XVwUW4YGrsqglOkHP1cl40cTl8/edit?usp=sharing)
