@@ -36,3 +36,7 @@
 
 
 [CDFAM - Computational Design Symposium](https://www.linkedin.com/company/c-d-f-a-m/)
+
+#technical
+[timber joints](https://mkmra2.blogspot.com/2014/08/cnc-cut-wood-joinery.html)
+[basic wafflle](https://interactivetextbooks.tudelft.nl/rhino-grasshopper/Grasshopper_Rhino_course/2_Knowledge_base/Digital_fabrication/Laser_cutting/%21index.html)

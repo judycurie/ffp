@@ -12,7 +12,9 @@ The Fab Foundation Poland - a Polish daughter of the [Fab Foundation](https://fa
 
 ## **Road Map**
 
-![](./assets/ffp-roadmap2023.png)
+![](./assets/ffp-roadmap2025.png)
+
+# FAB  INSTITUTE
 
 
 # MAJORS EVENTS!
