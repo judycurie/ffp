@@ -37,8 +37,7 @@ theme:
     title: black
     primary: black
     background: white
-plugins:
-    - mkdocs-video
+
 markdown_extensions:
     - def_list
     - pymdownx.tasklist:
