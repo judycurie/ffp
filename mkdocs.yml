@@ -7,11 +7,9 @@ nav:
     - Home: index.md
     - About:
       - nav/about/mission.md
-      - nav/about/founders.md
-      - nav/about/statut.md
+      - nav/about/people.md
       - nav/about/regulations.md
-      - nav/about/community.md
-      - nav/about/tutors.md
+
 
     - Research:
       - nav/research/areas.md
@@ -37,7 +35,13 @@ theme:
     title: black
     primary: black
     background: white
+plugins:
+  - gallery:
+      examples_dirs: docs/examples          # path to your example scripts
+      gallery_dirs: docs/generated/gallery  # where to save generated gallery
+      # ... (other options)
 
+  - search  # make sure the search plugin is still enabled
 markdown_extensions:
     - def_list
     - pymdownx.tasklist:

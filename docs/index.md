@@ -10,13 +10,13 @@ by
 
 The Fab Foundation Poland - a Polish daughter of the [Fab Foundation](https://fabfoundation.org/). The Fab Foundation Poland aims to bridge the digital divide and conduct applied research into digital design & fabrication. The actions of the Fab Foundation Poland are primarily aimed for people living currently in Poland: Poles, Ukrainians and other people needing community, new job skills or a digitally fabricated house!
 
-## **Road Map**
+## **Fab Foundation Poland Road Map**
 
-![](./assets/ffp-roadmap2025.png)
+![](nav/assets/250210_Fab Foundation Poland.svg)
 
 # FAB  INSTITUTE
 
-
+![](nav/assets/fablabs/250210_FFP_AlumniProject7.png)
 # MAJORS EVENTS!
 
 ##[**Rhino User Meeting Europe 2024**](./rhinousermeeting2024.md) [**International Event**]
