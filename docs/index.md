@@ -19,9 +19,9 @@ _____________________
 
 ![](nav/assets/fablabs/250210_FFP_AlumniProject7.png)
 _____________________
-# FAB PRODUCTS
+# FAB PRODUCTS - [Makeitbith Shop](https://makeitbitch.shop/)
 
-We design digital products for global market to be digitally fabricated  with local resources. Made on demand without the need for transpoort, they are both economic and ecological.
+We design digital products for global market to be digitally fabricated  with local resources. Made on demand without the need for transport, they are both economic and ecological.
 
 
 
