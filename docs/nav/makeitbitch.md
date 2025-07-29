@@ -4,7 +4,7 @@
 
 
 
+![](./assets/ffp2.png)
 
 
-
-##[makeitbitch.shop](https://makeitbitch.shop/)
+#[**Fab Founadtion Poland Etsy**](https://fabfoundationpoland.etsy.com)

@@ -48,6 +48,7 @@ Fab Institute aims to transform into maker space/ Fab Lab unit. At the momement 
 - **features:** access to shared fully-equiped kitchen, bathroom and call room (with a reservation system to meet clients or to run virtual meetings in private)
 - **price:** 600PLN/month including everything (heating, water, electricity, internet)
 - **check availability with Judy:** +48 602 698 242
+- [**pay with card**](https://buy.stripe.com/9B6eVd4Edfm2cKweLvgw009)
 
 ##**Office XS**
 

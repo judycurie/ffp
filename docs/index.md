@@ -19,7 +19,7 @@ _____________________
 
 ![](nav/assets/fablabs/250210_FFP_AlumniProject7.png)
 _____________________
-# FAB PRODUCTS - [Makeitbith Shop](https://makeitbitch.shop/)
+# FAB PRODUCTS - [Fab Foundation Poland Shop](https://fabfoundationpoland.etsy.com)
 
 We design digital products for global market to be digitally fabricated  with local resources. Made on demand without the need for transport, they are both economic and ecological.
 
@@ -38,6 +38,13 @@ _____________________
 
 ![](nav/assets/events/GH_Masterclass.jpg)
 _____________________
+
+# SUPPORT US!
+
+
+![](./assets/donationqr_wide_adobe.png)
+
+
 
 
 made with [Simple Blog for MkDocs](https://github.com/FernandoCelmer/mkdocs-simple-blog)
