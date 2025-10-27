@@ -63,30 +63,51 @@
 10. [240525- GH Masterclass 3 - data I/O, excel, csv, data visualization, geometry for fabrication](../ghmasterclass.md) [**Masterclass**]
 11. [240529- 19th Fab Academy 2024](./e002.md) [Lecture]
 
-##**June 2024**
+##**Jun 2024**
 11. [240605- 20th Fab Academy 2024](./e002.md) [**last Lecture**]
 1. [240607- Rhino User Meeting Europe](../rhinousermeeting2024.md) [**International Event**]
 10. [240608- GH Masterclass 4 - complex definitions, project organization and helpful plugins](../ghmasterclass.md) [**Masterclass**]
 10. [240622- GH Masterclass 5 - looping with Anemone, generative design](../ghmasterclass.md) [**Masterclass**]
 
-##**July 2024**
+##**Jul 2024**
 
 10. [240706- GH Masterclass 6 - automating tasks with Anemone, scripting introduction](../ghmasterclass.md) [**Masterclass**]
 10. [240720- GH Masterclass 7 - Kangaroo](../ghmasterclass.md) [**Masterclass**]
 
-##**August 2024**
+##**Aug 2024**
 
 summer break
 
-##**September 2024**
+##**Sep 2024**
 
 10. [240921- GH Masterclass 8 - scripting](../ghmasterclass.md) [**Masterclass**]
 11. 240928 -  Meet & Code Laser Cut (to be confirmed)
 
-##**October 2024**
+##**Oct 2024**
 
 10. [241005- GH Masterclass 9 -C#](../ghmasterclass.md) [**Masterclass**]
 11. 241012 -  Meet & Code 3D Print (to be confirmed)
 
 10. [241019- GH Masterclass 10 - user_defined_2](../ghmasterclass.md) [**Masterclass**]
 11. 241026 -  Meet & Code Electronics (to be confirmed)
+
+#**2025**
+
+##**Jan 2025**
+
+1. [250101- Fab New Year Eve](./e003.md) [**Social Event**]
+
+##**Apr 2025**
+1. [250401- Monthly Product Meeting](./e004.md)
+1. [250429- Monthly Product Meeting](./e004.md)
+
+##**Jun 2025**
+1. [250625- Monthly Product Meeting](./e004.md)
+
+##**Jul 2025**
+1. [250723- Monthly Product Meeting](./e004.md)
+##**Aug 2025**
+1. [250806- Monthly Product Meeting](./e004.md)
+
+##**Sep 2025**
+1. [250902- Visiting Lecture- Gabriela Bila MIT, Media Lab](./e005.md) [**Guest Lecture / Social Event**]

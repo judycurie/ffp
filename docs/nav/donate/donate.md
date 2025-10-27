@@ -3,7 +3,7 @@ Fab Foundation Poland is **a non-profit organisation** (verified for Google Nonp
 
 # [**DONATE HERE**](https://donate.stripe.com/8wM4gPejC4Poblu6op)
 
-![](../assets/donate/donationqr_wide.png)
+![](../assets/donate/donationqr_wide_adobe.png)
 
 # [**DONATE PAYPAL**](https://paypal.me/fabfndnpl?country.x=PL&locale.x=pl_PL)
 ______________

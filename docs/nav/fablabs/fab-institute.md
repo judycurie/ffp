@@ -47,7 +47,7 @@ Fab Institute aims to transform into maker space/ Fab Lab unit. At the momement 
 - **area:** an individual dedicated workspace in the large co-making area including large comfortable desk 140x70cm, chair and a desk cupboard
 - **features:** access to shared fully-equiped kitchen, bathroom and call room (with a reservation system to meet clients or to run virtual meetings in private)
 - **price:** 600PLN/month including everything (heating, water, electricity, internet)
-- **check availability with Judy:** +48 602 698 242
+- **check availability with Orest:** +48 572 537 637
 - [**pay with card**](https://buy.stripe.com/9B6eVd4Edfm2cKweLvgw009)
 
 ##**Office XS**
@@ -58,7 +58,7 @@ Fab Institute aims to transform into maker space/ Fab Lab unit. At the momement 
 - **area:** 11.8m2
 - **features:** access to shared fully-equiped kitchen, bathroom and call room (a dedicated room for comaking space and XS office users to run virtual meetings in private)
 - **price:** 1500PLN/month including everything (heating, water, electricity, internet)
-- **check availability with Ania:** +48 602 698 242
+- **check availability with Orest:**  +48 572 537 637
 
 
 ##**Office M (Meeting Room)**
@@ -69,7 +69,7 @@ Fab Institute aims to transform into maker space/ Fab Lab unit. At the momement 
 - **features:** individual entrance, exlusive kitchen and bathroom, equipped with white board and large screen
 - **price:** 2500PLN/month including everything (heating, water, electricity, internet)
 - **rent for days**: possibility to rent the office ocassionly for days (min. one day), or for reccurent events (e.g. 2 days each week, or one weekend in a month), prices are negotiated based on the request
-- **check availability with Judy:** +48 602 698 242
+- **check availability with Orest:**  +48 572 537 637
 
 
 

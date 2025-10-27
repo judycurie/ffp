@@ -1,4 +1,9 @@
 # People
+
+
+
+#[**FFP Members**](https://docs.google.com/document/d/1kds44z_aWDbdq6oyOjc_hskXXhwN0bW_e6TexGEP9rc/edit?usp=sharing)
+
 ![](../assets/about/FabPoland-icon.png)
 ![](../assets/about/250210_Fab Foundation Poland.svg)
 
@@ -64,7 +69,7 @@ More at [hashtagpszemek](https://www.instagram.com/hashtagpszemek/)
 _____________________________
 
 ![](../assets/about/szymon.jpg)
-# **Szymon Loj**- TUTOR & COLLABORATOR
+# **Szymon Loj**- TUTOR
 
 Szymon is an accomplished Architectural Assistant with a proven track record in the public architecture sector. His expertise lies in Building Information Modeling (BIM) and proficiency in various 3D modeling software such as Rhinoceros and Grasshopper3d. He specializes in Parametric Design, Parametric Modeling, and Geometry.
 
