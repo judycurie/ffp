@@ -4,26 +4,26 @@
 
 ![](./assets/ffp-background2.jpg)
 
-## **ABOUT Fab Institute**
+## **ABOUT Fab Foundation Poland Coworking**
 We have just established a new facility in Wrocław.
 
 
 
-Fab Institute aims to transform into maker space/ Fab Lab unit. At the momement it offers desks and offices for rent with access to laser cutter and 3D printer. Fab institute can also host weekend workshops, masterclasses, lectures, exhibitions.
+At the moment Fab Foundation Poland  offers desks and offices for rent with access to laser cutter and 3D printer. We also host weekend workshops, masterclasses, lectures, exhibitions.
 
 
-##**Fab Institute - Location**
-**Address**: Fab Institute, Łokietka 12c, 50-243 Wrocław, Poland
+##**Location**
+**Address**: Łokietka 12c, 50-243 Wrocław, Poland
 ![](../assets/fablabs/map0.jpg)
 
-**Fig.** Fab Institute in the city center of Wrocław.
+**Fig.** Central location.
 
 ![](../assets/fablabs/map1.jpg)
 
-**Fig.** Entrance to the Fab Institute from Brodatego Street.
+**Fig.** Entrance from Brodatego Street 55.
 
-##**Fab Institute - Facility**
-![](../assets/fablabs/231220_now.jpg)
+##**Facility**
+![](../assets/fablabs/rzut.jpg)
 
 **Fig.** The current arrangement with individual offices and 10 desks to rent.
 
@@ -40,7 +40,7 @@ Fab Institute aims to transform into maker space/ Fab Lab unit. At the momement 
 #**For rent!**
 
 
-##**Desks in comaking space**
+##**Desks in Coworking space**
 ![](../assets/fablabs/desks.jpg)
 
 - **capacity:** 1 person
@@ -75,7 +75,7 @@ Fab Institute aims to transform into maker space/ Fab Lab unit. At the momement 
 
 #**Fab Institute to be**
 ![](../assets/fablabs/231220_aim.jpg)
-**Fig.** The target arrangement for Fab Institute (a Fab Academy node).
+**Fig.** The target arrangement for the space into a Fab Institute (a Fab Academy node).
 
 #**Fab Lab Model**
 
