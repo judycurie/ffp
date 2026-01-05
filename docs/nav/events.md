@@ -114,7 +114,7 @@
 1. [251020- AI for 3D Workshop](./e005.md) [**Workshop**]
 1. [251022- 3Demand Product Meeting](./e008.md)
 
-1. [251025- Opening of M Office](./e005.md) [**Social Event**]
+1. 251025- Opening of M Office [**Social Event**]
 
 ![](./assets/240428_GHMAS.JPEG)
 **Fig.** GH Masterclass 1, 28th April 2024.
@@ -130,7 +130,7 @@
 **Fig.** Lecture of Prof. Luis Alonso (MIT Media Lab) 21st May 2025.
 
 ![](./assets/events/231200_ChristmasDinner.jpg)
-**Fig.** First Christmas Dinner. 16th December 2024. 
+**Fig.** First Christmas Dinner. 16th December 2024.
 
 ![](./assets/events/240500_FabAcademy.jpg)
 **Fig.** Fab Academy Lecture Screening, Bulvary, 2024.

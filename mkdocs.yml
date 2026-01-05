@@ -15,9 +15,11 @@ nav:
       - nav/research/areas.md
       - nav/research/international-scientific-council.md
       - nav/resources.md
-    - Co-Working: nav/fablabs/fab-institute.md
+    - Space:
+      - nav/space/coworking.md
+      - nav/space/fab-institute.md
     - Events: nav/events.md
-    - Shop: nav/makeitbitch.md
+    - Shop: nav/shop.md
 
     - Donate:
       - nav/donate/donate.md
